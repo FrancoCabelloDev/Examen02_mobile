@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado02</string>
+    <string name="pedido_title">Pedido</string>
+    <string name="cd_person">Icono persona</string>
+    <string name="cd_phone">Icono teléfono</string>
+    <string name="cd_cart">Icono carrito</string>
+    <string name="cd_location">Icono ubicación</string>
+
+</resources>
